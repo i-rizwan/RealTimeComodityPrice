@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/RIZWAN/ANROID/gitcode/RealTimeComodityPrice/app/src/main/res/drawable-v24/ic_baseline_filter_list_24.xml" value="0.2265" />
+        <entry key="..\:/RIZWAN/ANROID/gitcode/RealTimeComodityPrice/app/src/main/res/layout/activity_filter.xml" value="0.22826086956521738" />
+        <entry key="..\:/RIZWAN/ANROID/gitcode/RealTimeComodityPrice/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/RIZWAN/ANROID/gitcode/RealTimeComodityPrice/app/src/main/res/layout/commodity_item.xml" value="0.1265625" />
+        <entry key="..\:/RIZWAN/ANROID/gitcode/RealTimeComodityPrice/app/src/main/res/layout/filter_parameter_item.xml" value="0.1265625" />
+        <entry key="..\:/RIZWAN/ANROID/gitcode/RealTimeComodityPrice/app/src/main/res/layout/filter_parameter_value_item.xml" value="0.1265625" />
         <entry key="..\:/RIZWAN/ANROID/gitcode/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/RIZWAN/ANROID/gitcode/app/src/main/res/layout/fragment_first.xml" value="0.18432971014492755" />
       </map>
